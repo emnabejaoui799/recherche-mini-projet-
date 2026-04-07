@@ -1,0 +1,33 @@
+1. Visual Studio Code (VS Code)
+Avantages :
+Polyglotte : Excellent pour mélanger Python, HTML et CSS dans le même projet.
+Léger et Rapide : Démarre instantanément et consomme peu de mémoire vive (RAM).
+Écosystème Géant : Des milliers d'extensions (Git, Live Server, thèmes) personnalisables.
+Inconvénients :
+Configuration manuelle : Tu dois installer toi-même les extensions pour Python ou Flask.
+Parfois complexe : Trop d'options peuvent perdre un débutant au début.
+Moins d'outils "Deep Python" : Moins d'outils d'analyse de code poussés que PyCharm par défaut.
+2. PyCharm
+Avantages :
+Clé en main : Tout est pré-installé pour le développement Python professionnel.
+Débogage surpuissant : Les outils pour trouver des erreurs de code sont les meilleurs du marché.
+Gestion d'environnement : Gère les environnements virtuels (venv) de manière presque invisible.
+Inconvénients :
+Très Lourd : Demande beaucoup de ressources système ; peut ralentir un ordinateur moyen.
+Payant (Pro) : La version gratuite (Community) ne supporte pas bien le développement Web (HTML/JS).
+Interface chargée : Beaucoup de menus qui peuvent être intimidants.
+3. Thonny
+Avantages :
+Ultra Simple : Conçu pour les débutants totaux, aucune distraction.
+Visualisation de variables : Génial pour comprendre comment les données bougent en mémoire.
+Installation tout-en-un : Python est déjà inclus à l'intérieur.
+Inconvénients :
+Limité : Pas adapté pour faire du Web (HTML/CSS) ou de gros projets comme un chatbot.
+Pas d'extensions : On ne peut pas vraiment le personnaliser.
+Interface basique : Manque d'outils professionnels pour Git ou le déploiement.
+Après avoir comparé PyCharm, Thonny et Visual Studio Code, j'ai choisi ce dernier pour développer mon chatbot culinaire. Ce choix s'explique par trois raisons majeures :
+C'est un projet "Full-Stack" : Tu ne fais pas que du Python. Tu manipules du HTML et du CSS. VS Code traite ces trois langages comme des citoyens de première classe.
+Intégration Git/GitHub : Comme tu utilises Git Bash, l'intégration visuelle de Git dans VS Code est beaucoup plus intuitive pour suivre tes "commits" et tes "pushes".
+Le Workflow Flask : Flask demande souvent de redémarrer le serveur et de modifier l'interface en même temps. La fluidité de VS Code rend ce va-et-vient beaucoup 
+plus agréable qu'un logiciel lourd comme PyCharm.
+
