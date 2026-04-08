@@ -26,8 +26,7 @@ Limité : Pas adapté pour faire du Web (HTML/CSS) ou de gros projets comme un c
 Pas d'extensions : On ne peut pas vraiment le personnaliser.
 Interface basique : Manque d'outils professionnels pour Git ou le déploiement.
 Après avoir comparé PyCharm, Thonny et Visual Studio Code, j'ai choisi ce dernier pour développer mon chatbot culinaire. Ce choix s'explique par trois raisons majeures :
-C'est un projet "Full-Stack" : Tu ne fais pas que du Python. Tu manipules du HTML et du CSS. VS Code traite ces trois langages comme des citoyens de première classe.
-Intégration Git/GitHub : Comme tu utilises Git Bash, l'intégration visuelle de Git dans VS Code est beaucoup plus intuitive pour suivre tes "commits" et tes "pushes".
-Le Workflow Flask : Flask demande souvent de redémarrer le serveur et de modifier l'interface en même temps. La fluidité de VS Code rend ce va-et-vient beaucoup 
-plus agréable qu'un logiciel lourd comme PyCharm.
+C'est un projet Full-Stack : je ne me contente pas de faire du Python, je manipule aussi du HTML et du CSS. VS Code traite d'ailleurs ces trois langages avec le même niveau
+d'importance.
+Pour l'intégration Git/GitHub, comme j'utilise Git Bash, le suivi visuel des « commits » et des « pushes » est beaucoup plus intuitif directement dans l'interface de VS Code.
 
