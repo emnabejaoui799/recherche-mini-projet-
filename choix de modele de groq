@@ -1,0 +1,32 @@
+Llama 3.1 8B Instant 
+Intelligence :Standard / Bonne.
+Vitesse : Ultra-rapide.
+Meilleur pour : Les chatbots simples et fluides.
+ Qwen 3 32B 
+Intelligence : Élevée (Spécialiste logique).
+Vitesse : Modérée (prend le temps de réfléchir).
+Meilleur pour : Résoudre des calculs ou du code.
+Llama 3.3 70B Versatile 
+Intelligence : Maximale (Généraliste).
+Vitesse : Rapide.
+Meilleur pour : Donner de vraies recettes structurées.
+Phase 1 : Test avec le Modèle Llama 3.1 Instant
+Observations : L'interface affiche une réponse très courte pour la pizza ou le couscous. Les étapes sont résumées en 3 ou 4 lignes
+maximum.
+Problème technique :Il est conçu pour la vitesse ("Instant") . Pour répondre vite, il supprime les détails importants.
+Avis pour le projet :Insuffisant pour réussir une recette.
+Phase 2 : Test avec le Modèle Qwen 3 32B
+Observations : La recette du couscous est très technique et détaillée, mais le bot commence à écrire en français puis bascule
+en anglais.
+Problème technique :est plus intelligent que le modèle Instant.Problème de prompt : il n'arrive pas à respecter la consigne stricte du System Prompt et utilise
+des mots anglais au lieu de rester uniquement en français.
+Avis pour le projet : Inadapté. Le mélange des langues rend l'application confuse à l'utilisateur.
+Phase 3 : Test final avec le Modèle Llama 3.3 Versatile 
+Observations : La recette de la pizza ou du couscous est riche,clair et rédigée dans un français impeccable. 
+Les astuces de chef (temps de repos, gestion du bouillon) sont présentes.
+Explication technique : Avec ses 70 milliards de paramètres, ce modèle possède une "mémoire" culturelle et linguistique géante. Il comprend parfaitement 
+les nuances de la cuisine française.
+Le miracle Groq :Un peu lent par nature, la réponse s'affiche instantanément dans mon chat .
+Mes captures d'écran prouvent ma démarche scientifique : j'ai testé trois architectures différentes. L'Instant manque de profondeur, le Qwen souffre de bugs 
+linguistiques, tandis que le Versatile offre l'expérience parfaite : une recette de niveau professionnel et un français correct. Bien que le modèle Versatile 
+soit un peu plus lent par nature à cause de sa grande taille (70B),
