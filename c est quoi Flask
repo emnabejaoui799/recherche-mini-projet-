@@ -1,6 +1,7 @@
 c est quoi Flask:
 Flask est un micro-framework open-source écrit en Python destiné au développement d'applications web.
-Concept de Micro-framework : Contrairement à des frameworks plus "lourds" comme Django, Flask est qualifié de "micro" car il ne fournit par défaut que les outils essentiels (routage d'URL, rendu de pages)
+Concept de Micro-framework : Contrairement à des frameworks plus "lourds" comme Django, Flask est qualifié de "micro" car il ne fournit par défaut que les 
+outils essentiels (routage d'URL, rendu de pages)
 sans imposer de structure rigide pour la base de données ou l'authentification.
 Usages Principaux :
 Création rapide de sites web dynamiques.
